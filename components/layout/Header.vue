@@ -47,7 +47,10 @@
                   class="nav-link d-flex gap-2 p-4 text-neutral-0"
                   data-bs-toggle="dropdown"
                 >
-                  <Icon class="fs-5" name="mdi:account-circle-outline" />
+                <!-- ??? -->
+                  <div class="">
+                    <Icon class="fs-5" name="mdi:account-circle-outline" />
+                  </div>
                   Jessica
                 </button>
                 <ul
