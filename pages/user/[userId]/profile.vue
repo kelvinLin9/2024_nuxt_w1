@@ -8,7 +8,7 @@
           <h2 class="fs-6 fs-md-5 fw-bold">修改密碼</h2>
           <div class="d-flex flex-column gap-4 gap-md-6">
             <div class="fs-8 fs-md-7">
-              <p class="mb-2 text-neutral-80 fw-medium">電子信箱</p>
+              <p class="mb-2 text-neutral-80 fw-medium">電子信箱 </p>
               <span
                 class="form-control pe-none p-0 text-neutral-100 fw-bold border-0"
                 >Jessica@exsample.com</span
