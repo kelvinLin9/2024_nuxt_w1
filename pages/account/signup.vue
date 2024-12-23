@@ -16,11 +16,11 @@
               class="step p-2 bg-primary-100 rounded-circle"
               >1</span
             >
-            <Icon
+            <!-- <Icon
               :class="{ 'd-none': !isEmailAndPasswordValid }"
               class="p-2 fs-3 bg-primary-100 rounded-circle"
               name="material-symbols:check"
-            />
+            /> -->
             <p class="mb-0 fs-8 fs-md-7 fw-bold">輸入信箱及密碼</p>
           </div>
 
