@@ -138,7 +138,7 @@ const { orderId } = route.params;
               >
                 <li class="flex-item d-flex gap-2">
                   <Icon class="fs-5 text-primary-100" icon="material-symbols:check" />
-                  <p class="mb-0 text-neutral-80 fw-bold">衛生紙</p>
+                  <p class="mb-0 text-neutral-80 fw-bold">衛生紙 </p>
                 </li>
                 <li class="flex-item d-flex gap-2">
                   <Icon class="fs-5 text-primary-100" icon="material-symbols:check" />
