@@ -21,7 +21,7 @@
             >
               <div>
                 <label class="mb-0 text-neutral-80 fs-8 fs-md-7 fw-medium">
-                  密碼
+                  密碼..
                 </label>
                 <input
                   class="form-control pe-none p-0 text-neutral-100 fs-5 fs-md-3 fw-bold border-0"
